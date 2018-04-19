@@ -1,4 +1,5 @@
 from tkinter import *
+import matplotlib.pyplot as plt
 import random
 
 i=0
